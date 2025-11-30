@@ -8,7 +8,8 @@
     "dev": "nodemon server.js",
     "seed": "node scripts/seed.js",
     "export-db": "node scripts/export-database.js",
-    "import-db": "node scripts/import-database.js"
+    "import-db": "node scripts/import-database.js",
+    "add-admin": "node scripts/add-admin.js"
   },
   "keywords": ["api", "mongodb", "express"],
   "author": "",
