@@ -45,7 +45,7 @@ npm run seed
 ```
 
 Default admin credentials:
-- Email: `admin`
+- Email: `admin@gmail.com`
 - Password: `admin@123`
 
 ### 6. Start the Backend Server
@@ -122,7 +122,7 @@ flutter run
 ### 3. Login as Admin
 
 1. Use admin credentials:
-   - Email: `admin`
+   - Email: `admin@gmail.com`
    - Password: `admin@123`
 2. Admin can manage services and view all bookings
 

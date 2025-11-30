@@ -27,14 +27,14 @@ async function seedDatabase() {
         firstName: 'Admin',
         lastName: 'User',
         userName: 'admin',
-        email: 'admin',
+        email: 'admin@gmail.com',
         phone: '1234567890',
         countryCode: '+1',
         password: 'admin@123',
         role: 'admin',
       });
       await admin.save();
-      console.log('Admin user created: admin / admin@123');
+      console.log('Admin user created: admin@gmail.com / admin@123');
     } else {
       console.log('Admin user already exists');
     }

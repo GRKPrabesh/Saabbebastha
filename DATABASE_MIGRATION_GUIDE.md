@@ -142,7 +142,7 @@ npm run seed
 ```
 
 This creates:
-- Admin user: `admin` / `admin@123`
+- Admin user: `admin@gmail.com` / `admin@123`
 - Sample services (Electric Crematorium, Fire Burning, Burial Systems)
 
 ---

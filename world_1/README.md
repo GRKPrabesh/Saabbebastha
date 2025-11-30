@@ -55,7 +55,7 @@ lib/
 
 ## Default Admin Credentials
 
-- Email: `admin`
+- Email: `admin@gmail.com`
 - Password: `admin@123`
 
 (After running the seed script in the backend)
